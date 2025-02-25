@@ -1,6 +1,6 @@
 # 👋 Hello, moi c'est Sloan !
 
-🔹 Développeur Full Stack TypeScript
+Développeur Full Stack TypeScript – Passionné par la création de solutions innovantes, je développe des applications web et mobiles avec une expertise en TypeScript, React, Node.js et PostgreSQL. Mes projets couvrent aussi bien le front-end que le back-end, avec une forte attention portée à l’optimisation des performances et à l’expérience utilisateur. 
  
 ## 🚀 Technologies & Outils
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -18,8 +18,13 @@
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ## 📌 Mes projets
-🔹 **ThrustImmo** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.  
-🔹 **Bailly** 🌿🦥 – Application mobile en cours de conception destinée aux propriétaires bailleurs pour simplifier la gestion locative : quittances, suivi des loyers, charges, rentabilité et documents administratifs centralisés.   
+🔹 **[ThrustImmo](https://thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.  
+
+🔹 **Bailly** 🌿🦥 – Application mobile en cours de conception destinée aux propriétaires bailleurs pour simplifier la gestion locative : quittances, suivi des loyers, charges, rentabilité et documents administratifs centralisés.  
+
+🔹 **[Pet Foster Connect](https://petfosterconnect.onrender.com/)** 🐾🏡 – Application web de mise en relation entre des associations de protection animale et des familles d’accueil temporaires, facilitant l’adoption définitive des animaux.  
+
+🔹 **[QR Code Factory](https://www.qrcode-factory.com/)** 📱🔳 – Générateur de QR codes personnalisables permettant de créer des codes stylisés et adaptés aux besoins spécifiques des entreprises et particuliers.    
 
 ## 🌍 Où me trouver ?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sloan-gauthier/)
