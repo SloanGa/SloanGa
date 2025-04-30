@@ -18,7 +18,7 @@ Développeur Full Stack TypeScript – Passionné par la création de solutions 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ## 📌 Mes projets
-🔹 **[ThrustImmo](https://thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.  
+🔹 **[ThrustImmo](https://app.thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.  
 
 🔹 **Bailly** 🌿🦥 – Application mobile en cours de conception destinée aux propriétaires bailleurs pour simplifier la gestion locative : quittances, suivi des loyers, charges, rentabilité et documents administratifs centralisés.  
 
