@@ -20,7 +20,7 @@ Développeur Full Stack TypeScript – Passionné par la création de solutions 
 ## 📌 Mes projets
 🔹 **[ThrustImmo](https://app.thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.  
 
-🔹 **Bailly** 🌿🦥 – Application mobile en cours de conception destinée aux propriétaires bailleurs pour simplifier la gestion locative : quittances, suivi des loyers, charges, rentabilité et documents administratifs centralisés.  
+🔹 **Finalis** 🌸 – Extension stratégique de Thrustimmo pour digitaliser le suivi transactionnel : mandats, compromis, commissions, statuts, dashboards et coordination multi-profils.  
 
 🔹 **[Pet Foster Connect](https://petfosterconnect.onrender.com/)** 🐾🏡 – Application web de mise en relation entre des associations de protection animale et des familles d’accueil temporaires, facilitant l’adoption définitive des animaux.  
 
