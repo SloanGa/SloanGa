@@ -18,7 +18,11 @@ Développeur Full Stack TypeScript – Passionné par la création de solutions 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
+Application mobile pour scanner, organiser et retrouver facilement tous ses documents personnels
+
 ## 📌 Mes projets
+🔹 **[Novaged](https://novaged.app/)** 📁 – Application mobile pour scanner, organiser et retrouver facilement tous ses documents personnels. 
+
 🔹 **Finalis** 🌸 – Extension stratégique de Thrustimmo pour digitaliser le suivi transactionnel : mandats, compromis, commissions, statuts, dashboards et coordination multi-profils. 
 
 🔹 **[ThrustImmo](https://app.thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.   
