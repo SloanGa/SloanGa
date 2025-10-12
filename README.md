@@ -26,9 +26,7 @@ Application mobile pour scanner, organiser et retrouver facilement tous ses docu
 🔹 **Finalis** 🌸 – Extension stratégique de Thrustimmo pour digitaliser le suivi transactionnel : mandats, compromis, commissions, statuts, dashboards et coordination multi-profils. 
 
 🔹 **[ThrustImmo](https://app.thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.   
-
-🔹 **[Pet Foster Connect](https://petfosterconnect-front.onrender.com/)** 🐾🏡 – Application web de mise en relation entre des associations de protection animale et des familles d’accueil temporaires, facilitant l’adoption définitive des animaux.  
-
+ 
 🔹 **[QR Code Factory](https://www.qrcode-factory.com/)** 📱🔳 – Générateur de QR codes personnalisables permettant de créer des codes stylisés et adaptés aux besoins spécifiques des entreprises et particuliers.    
 
 ## 🌍 Où me trouver ?
@@ -36,4 +34,4 @@ Application mobile pour scanner, organiser et retrouver facilement tous ses docu
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=web&logoColor=white)](https://www.sloan-gauthier.fr/)
 
 ---
-🎯 **Toujours en quête de nouveaux défis, n’hésite pas à me contacter !** 🚀
+
