@@ -19,9 +19,9 @@ Développeur Full Stack TypeScript – Passionné par la création de solutions 
 Application mobile pour scanner, organiser et retrouver facilement tous ses documents personnels
 
 ## 📌 Mes projets
-🔹 **[Novaged](https://novaged.app/)** 📁 – Application mobile pour scanner, organiser et retrouver facilement tous ses documents personnels. 
+🔹 **[Traqitt](https://traqitt.app/)** 🚗🔧 – Application mobile de suivi d'entretien automobile : carnet d'entretien numérique, scan des factures de garage, score de santé du véhicule et alertes avant chaque échéance (vidange, contrôle technique, assurance).
 
-🔹 **Finalis** 🌸 – Extension stratégique de Thrustimmo pour digitaliser le suivi transactionnel : mandats, compromis, commissions, statuts, dashboards et coordination multi-profils. 
+🔹 **[Novaged](https://novaged.app/)** 📁 – Application mobile pour scanner, organiser et retrouver facilement tous ses documents personnels. 
 
 🔹 **[ThrustImmo](https://app.thrustimmo.fr/)** 🏢🏡 – Solution de gestion dédiée aux agences immobilières, facilitant le suivi des comptes séquestres, la gestion des transactions et l'automatisation des fichiers de virement. Actuellement en phase de test dans 15 agences d’un groupe immobilier.   
  
